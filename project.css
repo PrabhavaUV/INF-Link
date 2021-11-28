@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+    
+    #body1{    
+        margin: 0px;
+        padding: 0px;
+        background-color: #545e68;
+        height: 110px;
+        width: 1550px;
+    /* position:static; */
+    /* top:0px; */
+    }
+    
+    #body2{
+        margin: 0px;
+        padding: 0px;
+        background-color: #5cdb95;
+        height: 800px;
+        width: 1550px;
+    }
+    
+    #logo{
+        width: 100px;
+        height: 100px;
+        margin: 5px 5px 5px 5px;
+        position: absolute; 
+    }
+    
+    #image{
+        height: 800px;
+        width: 1550px;
+        margin: 0px;
+        padding: 0px; 
+    }
+
+    .top{
+        left: 1000px;
+        position: relative;
+        float:left;
+        margin-top:10px ;
+        margin-left:10px ;
+        margin-right:10px ;
+        padding-right: 10px;
+        padding-left: 10px;
+        border: 2px rgb(0, 0, 0) solid;
+        border-radius: 20px;
+        box-sizing: border-box;
+        background-color: #8ee4af;    
+    }
+    
+    .mainhead{
+        top: 20px;
+        padding-right: 10px;
+        font-weight: bold; 
+        font-family: 'Fruktur', cursive;      
+    }

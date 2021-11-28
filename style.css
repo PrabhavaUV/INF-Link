@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    }
+    
+     
+    #body1{
+    background-color: red;
+    height: 150px;
+    width: 1550px;
+    }
+    
+    
+    #body2{
+    background-color:grey;
+    height: 800px;
+    width: 1550px;
+    }
+    
+    
+    
+    #logo{
+    width: 125px;
+    height: 125px;
+    margin: 10px 10px 10px 10px;
+    
+    }
+    
+    #image{
+    height: 800px;
+    width: 1550px;
+    margin: 0px;
+    padding: 0px;
+    
+    }
+    
+    .top{
+    
+    
+    
+    }
+    
+    .mainhead{
+    
+    
+    
+    }

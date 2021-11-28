@@ -1,0 +1,20 @@
+.nav-list {
+    width: 70%;
+    /* to make everything in list 1 line */
+    display: flex;
+}
+
+.nav-list li {
+
+    /* This will remove the style
+    of bulleted list */
+    list-style: none;
+    /* tomake space btw words */
+    padding: 2px 6px;
+}
+
+.nav-list li a {
+    /* to make line disappera */
+    text-decoration: none;
+    color: rgb(2, 2, 2);
+}
